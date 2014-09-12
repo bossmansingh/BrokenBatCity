@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;singh.saurabh.brokenbatcity&apos; to &apos;singh.saurabh.BrokenBatCity&apos;&#x0A;- Original project: &apos;BrokenBatCity-desktop&apos;&#x0A;- Original element: &apos;BrokenBatCity-desktop/src/singh.saurabh.brokenbatcity&apos;&#x0A;- Renamed element: &apos;BrokenBatCity-desktop/src/singh.saurabh.BrokenBatCity&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;singh.saurabh.brokenbatcity&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;singh.saurabh.brokenbatcity" name="singh.saurabh.BrokenBatCity" qualified="false" references="true" stamp="1404792609037" textual="false" version="1.0"/>
+</session>
